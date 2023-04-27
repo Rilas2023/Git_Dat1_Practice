@@ -1,9 +1,5 @@
 test case 05
 
-ko
-
-ok
-
-UFC
+John is updating this file
 
 ....
